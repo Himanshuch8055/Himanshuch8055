@@ -78,12 +78,13 @@
 <!-- <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>  -->
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Himanshuch8055">
   <img align="center" height="182em" src="https://github-readme-stats.vercel.app/api?username=Himanshuch8055&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-</div>
-<div align="center">
-  <a href="https://github.com/Himanshuch8055"> <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuch8055&layout=compact&langs_count=7&theme=cobalt"/></p><img align="center" height="182em" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuch8055&" alt="himanshuch8055" />
+</div> -->
+<!-- <div align="center">
+  <a href="https://github.com/Himanshuch8055"> <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuch8055&layout=compact&langs_count=7&theme=cobalt"/></p> -->
+  <img align="center" height="182em" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuch8055&" alt="himanshuch8055" />
 </div>
 <!-- height="180em" -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshuch8055&show_icons=true&locale=en&layout=compact" alt="himanshuch8055" /></p>
