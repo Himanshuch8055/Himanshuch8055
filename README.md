@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Himanshu Chauhan</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Chauhan.</h1>
 <h3 align="center">A coder from India.</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshuch8055&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuch8055" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuch8055&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuch8055" /> </p>
-
-
-<p align="center">
-<a href="https://github.com/Himanshuch8055">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=himanshuch8055&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="himanshuch8055" /></a>
+<p align="center"> <a href="https://twitter.com/himanshuch8055" target="blank"><img src="https://img.shields.io/twitter/follow/himanshuch8055?logo=twitter&style=for-the-badge" alt="himanshuch8055" /></a>
 </p>
+
+<!-- <p align="center">
+<a href="https://github.com/Himanshuch8055">
+</p> -->
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=himanshuch8055&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="himanshuch8055" /></a> -->
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshuch8055" alt="himanshuch8055" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/himanshuch8055" target="blank"><img src="https://img.shields.io/twitter/follow/himanshuch8055?logo=twitter&style=for-the-badge" alt="himanshuch8055" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, Python.**
 
@@ -22,8 +22,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me :-</h3>
+<p align="center">
 <a href="https://dev.to/himanshuch8055_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="himanshuch8055_99" height="30" width="40" /></a>
 <a href="https://twitter.com/himanshuch8055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshuch8055" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himanshu-chauhan-693404226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-chauhan-693404226" height="30" width="40" /></a>
@@ -33,8 +33,8 @@
 <a href="https://discord.gg/https://discord.gg/deYQcTGk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/deYQcTGk" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> 
+<h3 align="center">Languages :-</h3>
+<p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -44,16 +44,21 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-<h3 align="left">Tools:</h3>
-<p align="left">
+<h3 align="center">Tools :-</h3>
+<p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img alt="Miguel-Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img alt="Miguel-Github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> </a> -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img alt="Miguel-Github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <div align = "center">
-<img align="center" height="182em" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuch8055&" alt="himanshuch8055" />
+<p><img align="center" height="182em" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuch8055&" alt="himanshuch8055" /></p>
+
+<p><img align="center" height="182em" src="https://github-readme-stats.vercel.app/api?username=himanshuch8055&show_icons=true&locale=en" alt="himanshuch8055" /></p>
+
+<p><img align="center" height="182em" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshuch8055&show_icons=true&locale=en&layout=compact" alt="himanshuch8055" /></p>
+
 </div>
 <!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  -->
 <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  -->
@@ -86,13 +91,13 @@
   <img align="center" height="182em" src="https://github-readme-stats.vercel.app/api?username=Himanshuch8055&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div> -->
 <!-- <div align="center">
-  <a href="https://github.com/Himanshuch8055"> <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuch8055&layout=compact&langs_count=7&theme=cobalt"/></p> -->
+  <a href="https://github.com/Himanshuch8055"> <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuch8055&layout=compact&langs_count=7&theme=cobalt"/></p>
+</div> -->
 
   <!-- <img align="center" height="182em" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuch8055&" alt="himanshuch8055" /> -->
-<!-- </div> -->
 <!-- height="180em" -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshuch8055&show_icons=true&locale=en&layout=compact" alt="himanshuch8055" /></p>
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshuch8055&show_icons=true&locale=en&layout=compact" alt="himanshuch8055" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuch8055&show_icons=true&locale=en" alt="himanshuch8055" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuch8055&" alt="himanshuch8055" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuch8055&show_icons=true&locale=en" alt="himanshuch8055" /></p> -->
+<!-- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuch8055&" alt="himanshuch8055" /></p> -->
