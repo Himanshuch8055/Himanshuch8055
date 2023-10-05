@@ -1,7 +1,7 @@
 [![An image of @himanshuch8055's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshuch8055)](https://holopin.io/@himanshuch8055)
-<hr>
+
 <h1 align="center">Hi 👋, I'm Himanshu chauhan.</h1>
-<h3 align="center">A passionate frontend developer from India (Bharat).Full Stack Developer 🙂, with knowledge in web development and design, Passionate programmer in love with JavaScript ❤️, Contributing to open source 🚀.</h3>
+<h3 align="center">A passionate frontend developer from India (Bharat).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuch8055&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuch8055" /> </p>
 
