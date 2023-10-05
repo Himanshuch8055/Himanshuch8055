@@ -1,4 +1,5 @@
 [![An image of @himanshuch8055's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshuch8055)](https://holopin.io/@himanshuch8055)
+
 <hr>
 <h1 align="center">Hi 👋, I'm Himanshu Chauhan.</h1>
 <h3 align="center">A coder from India.</h3>
@@ -14,7 +15,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=himanshuch8055&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="himanshuch8055" /></a> -->
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshuch8055" alt="himanshuch8055" /></a> </p> -->
-
 
 - 🌱 I’m currently learning **DSA, Python.**
 
@@ -101,5 +101,5 @@
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshuch8055&show_icons=true&locale=en&layout=compact" alt="himanshuch8055" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuch8055&show_icons=true&locale=en" alt="himanshuch8055" /></p> -->
-<!-- 
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuch8055&" alt="himanshuch8055" /></p> -->

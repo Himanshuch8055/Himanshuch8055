@@ -1,5 +1,3 @@
-[![An image of @himanshuch8055's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshuch8055)](https://holopin.io/@himanshuch8055)
-
 <h1 align="center">Hi 👋, I'm Himanshu chauhan.</h1>
 <h3 align="center">A passionate frontend developer from India (Bharat).Full Stack Developer 🙂, with knowledge in web development and design, Passionate programmer in love with JavaScript ❤️, Contributing to open source 🚀.</h3>
 
@@ -63,3 +61,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuch8055&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="himanshuch8055" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuch8055&theme=dark" alt="himanshuch8055" /></p>
+
+[![An image of @himanshuch8055's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshuch8055)](https://holopin.io/@himanshuch8055)
