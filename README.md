@@ -87,5 +87,5 @@ I'm a passionate frontend developer from India 🇮🇳, dedicated to crafting e
 </div>
 
 <div align="center">
-  <sub>If you found value in my work, consider <a href="https://www.buymeacoffee.com/himanshuch8055">buying me a coffee</a> ☕</sub>
+  <sub>If you found value in my work, consider <a href="https://www.buymeacoffee.com/himanshuchu">buying me a coffee</a> ☕</sub>
 </div>
