@@ -57,9 +57,8 @@ I'm a passionate frontend developer from India 🇮🇳, dedicated to crafting e
 </div>
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshuch8055&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshuch8055&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=9" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
