@@ -80,7 +80,6 @@ I'm a passionate frontend developer from India 🇮🇳, dedicated to crafting e
     <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/5.png" alt="Badge 5" width="100" height="100" />
     <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/6.png" alt="Badge 6" width="100" height="100" />
     <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/7.png" alt="Badge 7" width="100" height="100" />
-    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/8.png" alt="Badge 8" width="100" height="100" />
   </a>
 </div>
 
