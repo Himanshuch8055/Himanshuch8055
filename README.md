@@ -2,10 +2,23 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshuch8055&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/himanshuch8055/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://twitter.com/himanshuch8055" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/himanshuch8055?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://himanshuch8055.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </div>
+
+<p align="center">
+  <strong>Frontend Developer | React Enthusiast | Open Source Contributor</strong>
+</p>
 
 ## 🚀 About Me
 
@@ -19,7 +32,7 @@ I'm a passionate frontend developer from India 🇮🇳, dedicated to crafting e
 - ⚡ Fun fact: **I'm a bodybuilder** 💪
 
 <div align="center">
-  <a href="https://holopin.io/@himanshuch8055">
+  <a href="https://holopin.io/@himanshuch8055" target="_blank">
     <img src="https://holopin.me/himanshuch8055" alt="Himanshu's Holopin badges" />
   </a>
 </div>
@@ -39,24 +52,25 @@ I'm a passionate frontend developer from India 🇮🇳, dedicated to crafting e
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshuch8055&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuch8055&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshuch8055&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuch8055&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuch8055&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuch8055&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=himanshuch8055&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=9" alt="GitHub Trophies" />
 </div>
@@ -64,7 +78,7 @@ I'm a passionate frontend developer from India 🇮🇳, dedicated to crafting e
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuch8055&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuch8055&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🏅 GirlScript Summer of Code 2024 Badges
@@ -101,5 +115,5 @@ I'm a passionate frontend developer from India 🇮🇳, dedicated to crafting e
 </div>
 
 <div align="center">
-  <sub>If you found value in my work, consider <a href="https://www.buymeacoffee.com/himanshuchu">buying me a coffee</a> ☕</sub>
+  <sub>If you found value in my work, consider <a href="https://www.buymeacoffee.com/himanshuchu" target="_blank">buying me a coffee</a> ☕</sub>
 </div>
