@@ -68,6 +68,22 @@ I'm a passionate frontend developer from India 🇮🇳, dedicated to crafting e
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuch8055&theme=react-dark" alt="Contribution Graph" />
 </div>
 
+## 🏅 GirlScript Summer of Code 2024 Badges
+
+<div align="center">
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" alt="Postman Badge" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/1.png" alt="Badge 1" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/2.png" alt="Badge 2" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/3.png" alt="Badge 3" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/4.png" alt="Badge 4" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/5.png" alt="Badge 5" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/6.png" alt="Badge 6" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/7.png" alt="Badge 7" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/8.png" alt="Badge 8" width="100" height="100" />
+  </a>
+</div>
+
 ## 🤝 Let's Connect
 
 <div align="center">
